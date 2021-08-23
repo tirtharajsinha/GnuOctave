@@ -1,0 +1,1 @@
+# fsk waveform plotingclc;close all;clear all;# startt=0:.001:1;
